@@ -7,7 +7,7 @@ const SITE = {
   niche: "VIDEO EDITING",
   headline: "Find a video editor you'd actually rehire.",
   subhead: "Ten vetted Fiverr Pro editors, compared side by side — what they edit, what they charge, how many clients came back.",
-  domain: "",                       // GitHub Pages 網址，上線時填
+  domain: "https://tammysu123.github.io/vetted-pros/",   // 2026-07-28 上線
 };
 
 /* FTC：揭露聯盟關係，用語依 FTC 指引（"affiliate link" 字樣不合格） */
