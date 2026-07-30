@@ -32,6 +32,14 @@ const CATEGORY_NOTES = {
   "Ads & UGC": "Order variations, not one perfect cut. Paid social needs 3-5 versions of the same edit to find the one that performs.",
 };
 
+/* 誰做的 —— 買家的信任訊號，同時是寄給賣家索取素材授權時他們唯一看得到的「我們是誰」。
+   刻意不放 email：Fiverr 禁止繞過平台聯絡，把聯絡方式擺在頁面上再叫賣家去看，容易被解讀成引導站外。 */
+const ABOUT = {
+  title: "Who's behind this",
+  body: "I'm Tammy — a musician and creator who films her own content and got tired of gambling on editors. This page is the shortlist I built for myself: ten Fiverr Pro editors, checked by hand, kept current. No sponsored placements — nobody paid to be on this list or to rank higher on it.",
+  sellerNote: "If you're one of the editors listed here: message me on Fiverr and I'll point the link at a different gig of yours, correct anything that's wrong, or take you off the page the same day.",
+};
+
 const SERVICES = [
   {
     name: "Scaler Studios",
