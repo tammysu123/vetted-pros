@@ -66,7 +66,7 @@ const SERVICES = [
     bestFor: "Brands who want reels that sell, not just look good",
   },
   {
-    name: "Roshan A",
+    name: "Roshan Studio",   // 2026-08-02 賣家本人在 Fiverr 訊息指定的顯示名稱
     tag: "YouTube",
     blurb: "YouTube video editor",
     reviews: 2082,
