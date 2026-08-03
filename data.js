@@ -92,14 +92,15 @@ const SERVICES = [
   {
     name: "Denis",
     tag: "Brand & corporate",
-    blurb: "Corporate edits & color grading",
+    blurb: "Ads, commercials & color grading",
     reviews: 397,
     rating: 4.9,
-    price: "from $200",
+    // 2026-08-03 賣家本人指定的 gig 與實際套餐價（Basic $350 / Standard $480 / Premium $650）
+    price: "from $350",
     img: "",
-    url: "https://pro.fiverr.com/freelancers/mrdiiiiin",   // TODO 聯盟核准後換 deep link
+    url: "https://www.fiverr.com/mrdiiiiin/edit-your-video-ads-and-commercials",
     fiverrProfile: "https://pro.fiverr.com/freelancers/mrdiiiiin",
-    bestFor: "Company videos that need After Effects and real color work",
+    bestFor: "Ads and commercials that need After Effects and real color work",
   },
   {
     name: "Katie",
