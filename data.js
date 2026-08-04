@@ -57,9 +57,9 @@ const SERVICES = [
     name: "Katerina",
     tag: "Reels & TikTok",
     blurb: "Social video ads editor",
-    reviews: 965,
+    reviews: 967,
     rating: 4.9,
-    price: "from $150",
+    price: "from $130",
     img: "",
     url: "https://pro.fiverr.com/freelancers/katerinasmileva",   // TODO 聯盟核准後換 deep link
     fiverrProfile: "https://pro.fiverr.com/freelancers/katerinasmileva",
@@ -71,7 +71,7 @@ const SERVICES = [
     blurb: "YouTube video editor",
     reviews: 2082,
     rating: 4.9,
-    price: "from $100",
+    price: "from $45",
     img: "",
     url: "https://pro.fiverr.com/freelancers/roshan_101",   // TODO 聯盟核准後換 deep link
     fiverrProfile: "https://pro.fiverr.com/freelancers/roshan_101",
@@ -81,9 +81,9 @@ const SERVICES = [
     name: "Sazzad H.",
     tag: "YouTube",
     blurb: "YouTube, vlog & podcast editor",
-    reviews: 479,
+    reviews: 482,
     rating: 4.9,
-    price: "from $75",
+    price: "from $65",
     img: "",
     url: "https://pro.fiverr.com/freelancers/sazzadedits",   // TODO 聯盟核准後換 deep link
     fiverrProfile: "https://pro.fiverr.com/freelancers/sazzadedits",
@@ -154,8 +154,8 @@ const SERVICES = [
     name: "Filmito",
     tag: "Ads & UGC",
     blurb: "UGC & ad creative",
-    reviews: 956,
-    rating: 4.9,
+    reviews: 959,
+    rating: 4.8,
     price: "from $200",
     img: "",
     url: "https://pro.fiverr.com/freelancers/shivamsuthar",   // TODO 聯盟核准後換 deep link
